@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "_comment": "Field example used in the application and translated into en",
+    "bannerTitle": "Barbecue area",
+    "bannerTitle1": "External area",
+    "bannerTitle2": "Recreation area",
+    "bannerTitle3": "Playroom",
+    "bannerDescription": "Harmony in every detail!"
+  }
+}

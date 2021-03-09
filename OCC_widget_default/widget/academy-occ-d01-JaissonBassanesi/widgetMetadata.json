@@ -1,0 +1,40 @@
+{
+  "imports": [],
+  "translations": [
+    {
+      "name": "academy-occ-d01-JaissonBassanesi",
+      "language": "en"
+    },
+    {
+      "name": "academy-occ-d01-JaissonBassanesi",
+      "language": "pt_BR"
+    }
+  ],
+  "availableToAllPages": true,
+  "jsEditable": true,
+  "minWidth": 1,
+  "globalEnabled": false,
+  "configuration": {
+    "ImageName": "Cozinha planejada",
+    "ImageName1": "Sala de jantar",
+    "ImageName2": "Sala de estar",
+    "ImageName3": "Suite",
+    "img1": {
+      "src": "file/general/banner_cozinha_jaisson.jpg",
+      "mediaName": "/general/banner_cozinha_jaisson.jpg"
+    },
+    "img2": {
+      "src": "file/general/banner_sala-jantar_jaisson.jpg",
+      "mediaName": "/general/banner_sala-jantar_jaisson.jpg"
+    },
+    "img3": {
+      "src": "file/general/banner_sala_jaisson.jpg",
+      "mediaName": "/general/banner_sala_jaisson.jpg"
+    },
+    "img4": {
+      "src": "file/general/banner_suite_jaisson.jpg",
+      "mediaName": "/general/banner_suite_jaisson.jpg"
+    }
+  },
+  "displayName": "academy-occ-d01-JaissonBassanesi"
+}

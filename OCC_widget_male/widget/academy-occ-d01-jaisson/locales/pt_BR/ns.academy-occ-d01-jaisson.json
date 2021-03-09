@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "_comment": "Exemplo de campo utilizado na aplicação e traduzido para pt_BR",
+    "bannerTitle": "Área de Churrasco",
+    "bannerTitle1": "Área Externa",
+    "bannerTitle2": "Área de Lazer",
+    "bannerTitle3": "Sala de Jogos",
+    "bannerDescription": "Armonia em cada detalhe!"
+  }
+}
